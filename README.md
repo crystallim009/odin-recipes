@@ -1,1 +1,1 @@
-# odin-recipes
+This is a recipe directory created by HTML. 
